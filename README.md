@@ -2,8 +2,11 @@
 Analysis of Zoom’s Growth Surge during the COVID pandemic and retention sustainability post pandemic. 
 
 Prepared by: Sarah Qasim 
+
 Submitted to: Saad Ahmad
+
 Company: Telerelation
+
 Start Date: 15 – January – 2026
 
 # Executive Summary  
